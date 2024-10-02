@@ -42,10 +42,10 @@ Robotics control engineer with a strong focus on control systems, robotics, and 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
     <img src="../assets/img/education/cu.png" alt="CU Logo" style="width: 6em; height: auto; margin-right: 1em;">
     <div style="flex: 1; font-size: 1em; max-width: 500px; text-align: justify;">
-        <a href="https://ethz.ch/en.html" style="text-decoration: none; color: black; font-weight: bold;">Chulalongkorn University</a>
+        <a href="https://www.chula.ac.th/en/" style="text-decoration: none; color: black; font-weight: bold;">Chulalongkorn University</a>
         <br> <strong>Bachelor of Engineering (B.E.)</strong> – <em>Mechanical Engineering</em>  
         <br>
-        Sep 2022 - Feb 2023, Bangkok, Thailand
+        Aug 2016 - May 2020, Bangkok, Thailand
         <ul style="margin-left: 1em; list-style-type: disc;">
             <li>Grade: 3.96/4.00, First-Class Honors, Gold Medal </li>
             <li><strong>Senior project:</strong> <em>An Agile Quadruped Robot </em>, supervised by Prof. Viboon Sangveraphunsiri.</li>            
