@@ -4,14 +4,17 @@ icon: fas fa-file
 order: 1
 ---
 <div style="flex: 1; font-size: 1em; text-align: justify;">
-Robotics control engineer with a strong focus on control systems, robotics, and mechanical design. Holds a Master’s degree in Systems, Control, and Robotics from KTH Royal Institute of Technology. Passionate about developing innovative solutions to address real-world challenges and committed to advancing the field of robotics.
+Robotics control engineer with a strong focus on control systems, robotics, and mechanical design. Holds a Master’s degree in Systems, Control, and Robotics from KTH Royal Institute of Technology. Passionate about developing innovative solutions to address real-world challenges and committed to advancing the field of robotics. 
 </div>
+
+
+Here is my <a href="{{ site.baseurl }}/assets/about/cv/CV_Sujet_Phodapol.pdf" style="text-decoration: none; color: black; font-weight: bold;" target="_blank">CV</a>.
 
 
 # Education
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-    <img src="../assets/img/education/kth.png" alt="KTH Logo" style="width: 6em; height: auto; margin-right: 1em;">
+    <img src="../assets/about/education/kth.png" alt="KTH Logo" style="width: 6em; height: auto; margin-right: 1em;">
     <div style="flex: 1; font-size: 1em; max-width: 500px; text-align: justify;">
         <a href="https://www.kth.se/en" style="text-decoration: none; color: black; font-weight: bold;">KTH Royal Institute of Technology</a>
         <br>
@@ -26,21 +29,21 @@ Robotics control engineer with a strong focus on control systems, robotics, and 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-    <img src="../assets/img/education/eth.png" alt="ETH Logo" style="width: 6em; height: auto; margin-right: 1em;">
+    <img src="../assets/about/education/eth.png" alt="ETH Logo" style="width: 6em; height: auto; margin-right: 1em;">
     <div style="flex: 1; font-size: 1em; max-width: 500px; text-align: justify;">
         <a href="https://ethz.ch/en.html" style="text-decoration: none; color: black; font-weight: bold;">ETH Zürich</a>
         <br> <strong>Master of Science (Exchange)</strong> – <em>Robotics, Systems and Control</em>  
         <br>
         Sep 2022 - Feb 2023, Zürich, Switzerland
         <ul style="margin-left: 1em; list-style-type: disc;">
-            <li><strong>Semester project:</strong> <em>Data‑driven adaptive control: a geometric approach</em> at Automatic Control Laboratory, supervised by Alberto Padoan and Jeremy Coulson.</li>
+            <li><strong>Semester thesis:</strong> <em>Data‑driven adaptive control: a geometric approach</em> at Automatic Control Laboratory, supervised by Alberto Padoan and Jeremy Coulson.</li>
             <li><strong>Semester thesis:</strong> <em>Design Optimization for Serial Elastic Actuators on Quadrupedal Robots</em> at Robotic Systems Lab, supervised by Fabian Tischhauser and Filip Bjelonic.</li>
         </ul>
     </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-    <img src="../assets/img/education/cu.png" alt="CU Logo" style="width: 6em; height: auto; margin-right: 1em;">
+    <img src="../assets/about/education/cu.png" alt="CU Logo" style="width: 6em; height: auto; margin-right: 1em;">
     <div style="flex: 1; font-size: 1em; max-width: 500px; text-align: justify;">
         <a href="https://www.chula.ac.th/en/" style="text-decoration: none; color: black; font-weight: bold;">Chulalongkorn University</a>
         <br> <strong>Bachelor of Engineering (B.E.)</strong> – <em>Mechanical Engineering</em>  
