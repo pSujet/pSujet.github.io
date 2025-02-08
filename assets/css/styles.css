@@ -1,0 +1,46 @@
+/* Container for both image and text */
+.content-group {
+  display: flex;                  /* Use Flexbox to align items horizontally */
+  gap: 15px;                       /* Space between image and text */
+  margin-top: 10px;                /* Optional: Add space on top */
+  align-items: flex-start;         /* Align items (image and text) at the top */
+  width: 100%;                     /* Take full width of the page */
+}
+
+/* Image styling */
+.paper-image {
+  width: 135px;                    /* Set the desired width */
+  height: 135px;                   /* Set the height to make it square */
+  object-fit: cover;               /* Ensure the image fits within the container */
+}
+
+/* Container for text and buttons */
+.text-and-buttons {
+  flex: 1;                         /* Allow the text to take up the remaining space */
+  margin-bottom: 20px;              /* Add bottom margin to create space below */
+}
+
+/* Container for buttons */
+.button-container {
+  display: flex;                 /* Arrange buttons horizontally */
+  justify-content: flex-end;     /* Align buttons to the right */
+  gap: 10px;                     /* Space between buttons */
+}
+
+/* Button style */
+.button {
+  display: inline-block;
+  background-color: #36ac7b;     /* Green background */
+  color: white;                  /* Text color */
+  padding: 5px 10px;             /* Padding for the button */
+  font-size: 14px;                /* Font size */
+  text-align: center;             /* Center the text inside the button */
+  text-decoration: none;          /* Remove underline */
+  border-radius: 5px;             /* Rounded corners */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Transition effects */
+}
+
+/* Hover effect for the button */
+.button:hover {
+  background-color: #c1f3a3;     /* Darker green on hover */
+}
