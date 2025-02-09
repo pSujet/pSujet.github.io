@@ -7,10 +7,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: google-scholar
+  icon: "fab fa-google-scholar"
+  url: "https://scholar.google.com/citations?user=cMWwD7sAAAAJ&hl=en&oi=ao"
+
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/sujet-phodapol//'                  # Fill with your Linkedin homepage
-  
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
