@@ -10,11 +10,25 @@ order: 2
 ## 2025
 <hr>
 <div class="content-group">
+    <img src="{{ site.baseurl }}/assets/publications/papers/images/ATMOS_2025.jpg" alt="ATMOS_2025" class="paper-image">    
+    <div class="text-and-buttons">
+        <p>
+            P. Roque, <b>S. Phodapol</b>, E. Krantz, J. Lim, J. Verhagen, F. J. Jiang, D. Dörner, H. Mao, G. Tibert, R. Siegwart, I. Stenius, J. Tumova, C. Fuglesang, and D. V. Dimarogonas, “<em>Towards Open-Source and Modular Space Systems with ATMOS</em>,” submitted to IEEE Transactions on Field Robotics, 2025. 
+        </p>
+        <div class="button-container">
+            <a href="{{ site.baseurl }}/assets/publications/papers/pdf/ATMOS_2025.pdf" class="button" target="_blank">PDF</a>
+            <a href="https://arxiv.org/abs/2501.16973" class="button" target="_blank">ARXIV</a>
+            <a href="https://atmos.discower.io" class="button" target="_blank">PLATFORM</a>
+        </div>
+    </div>
+</div>
+<hr>
+<div class="content-group">
     <img src="{{ site.baseurl }}/assets/publications/papers/images/MC-PIG_SII_2025.jpg" alt="MC-PIG_SII_2025" class="paper-image">    
     <div class="text-and-buttons">
         <p>
             T. Suthisomboon, <b>S. Phodapol</b>, T. Pairam, K. Phongaksorn, N. Asawalertsak, P. Kriengkomol, T. Jitnaknan, P. Janbanjong, and P. Manoonpong, 
-            "<em> Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: From System Integration to Real-World Demonstration </em>," 
+            “<em> Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: From System Integration to Real-World Demonstration </em>,” 
             in IEEE/SICE International Symposium on System Integration (SII 2025), München, Germany, 2025. 
             <br> <b>Winner of the SICE International Young Authors Award (SIYA)</b>
         </p>
@@ -32,7 +46,7 @@ order: 2
     <img src="{{ site.baseurl }}/assets/publications/papers/images/Microgravity_CASE_2024.jpg" alt="Microgravity_CASE_2024" class="paper-image">    
     <div class="text-and-buttons">
         <p>
-            <b>S. Phodapol</b>, P. Roque, D.V. Dimarogonas “<a href="https://ieeexplore.ieee.org/abstract/document/10711680" style="text-decoration: none; color: black; font-style: italic;">Collaborative Load Transportation in Microgravity Environments: Centralized and Decentralized Predictive Controllers</a>,” in IEEE 20th International Conference on Automation Science and Engineering (CASE 2024), Bari, Italy, 2023. 
+            <b>S. Phodapol</b>, P. Roque, D.V. Dimarogonas “<a href="https://ieeexplore.ieee.org/abstract/document/10711680" style="text-decoration: none; color: black; font-style: italic;">Collaborative Load Transportation in Microgravity Environments: Centralized and Decentralized Predictive Controllers</a>,” in IEEE 20th International Conference on Automation Science and Engineering (CASE 2024), Bari, Italy, 2024. 
         </p>
         <div class="button-container">
             <a href="{{ site.baseurl }}/assets/publications/papers/pdf/Microgravity_CASE_2024.pdf" class="button" target="_blank">PDF</a>
@@ -46,7 +60,7 @@ order: 2
     <img src="{{ site.baseurl }}/assets/publications/papers/images/CANOPIES_CASE_2024.jpg" alt="CANOPIES_CASE_2024" class="paper-image">    
     <div class="text-and-buttons">
         <p>
-            S.A. Deka, <b>S. Phodapol</b>, A.M. Gimenez, V.N. Fernandez-Ayala, R. Wong, P. Yu, X. Tan, D.V. Dimarogonas “<a href="https://ieeexplore.ieee.org/abstract/document/10711319" style="text-decoration: none; color: black; font-style: italic;">Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control</a>,” in IEEE 20th International Conference on Automation Science and Engineering (CASE 2024), Bari, Italy, 2023. 
+            S.A. Deka, <b>S. Phodapol</b>, A.M. Gimenez, V.N. Fernandez-Ayala, R. Wong, P. Yu, X. Tan, D.V. Dimarogonas “<a href="https://ieeexplore.ieee.org/abstract/document/10711319" style="text-decoration: none; color: black; font-style: italic;">Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control</a>,” in IEEE 20th International Conference on Automation Science and Engineering (CASE 2024), Bari, Italy, 2024. 
         </p>
         <div class="button-container">
             <a href="{{ site.baseurl }}/assets/publications/papers/pdf/CANOPIES_CASE_2024.pdf" class="button" target="_blank">PDF</a>
