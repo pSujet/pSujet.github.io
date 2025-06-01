@@ -3,7 +3,7 @@ layout: page
 # Index page
 ---
 
-![Desktop View](/assets/about/images/sujet_with_robots.jpg){: width="400" height="400" }
+![sujet_with_robots](/assets/about/images/sujet_with_robots.jpg){: width="400" height="400" }
 _With my robots at KTH Space Robotics Lab in Stockholm, Sweden._
 
 
