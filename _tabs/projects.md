@@ -7,6 +7,23 @@ order: 3
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
 </head>
 
+## 2022
+<hr>
+<div class="content-group">
+    <img src="{{ site.baseurl }}/assets/projects/2022/images/applied_estimation.png" alt="applied_estimation" class="paper-image">        
+    <div class="text-and-buttons">
+        <p>
+            <b>State Estimation of Pipe Inspection Gauge using EKF and UKF</b>
+            <br>This was the final project for the "Applied Estimation (EL2320)" at KTH. In the team of two, we implemented an Extended Kalman Filter (EKF) and Unscented Kalman Filter (UKF) to estimate the state of a pipe inspection gauge. We compared the performance of both filters in terms of error in various scenarios, including slipping of the wheels.
+        </p>
+        <div class="button-container">
+            <a href="{{ site.baseurl }}/assets/projects/2022/pdf/applied_estimation.pdf" class="button" target="_blank">PDF</a>
+            <a href="https://github.com/pSujet/final_applied_estimation" class="button" target="_blank">CODE</a>
+        </div>
+    </div>
+</div>
+<hr>
+
 ## 2021
 <hr>
 <div class="content-group">
