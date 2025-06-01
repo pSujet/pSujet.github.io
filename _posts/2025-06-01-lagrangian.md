@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lagrangian Mechanics and Principle of least action
+title: Lagrangian Mechanics and Principle of Least Action
 date: 2025-06-01 00:00 +0100
 categories: [Dynamics]
 tags: [learning]
@@ -38,7 +38,9 @@ _The original function $y(x)$ and the perturbed function $\bar{y}(x)$ with a sma
 Suppose we want to find the function $y(x)$ that minimizes the functional $I[y]$. We can do this by considering the first variation of the functional at $\epsilon = 0$, where $\bar{y}(x)$ is equal to $y(x)$. The first variation of the functional is defined as:
 
 $$
-  \left. \frac{dI}{d\epsilon} \right|_{\epsilon=0} = 0 
+\begin{align}
+  \left. \frac{dI}{d\epsilon} \right|_{\epsilon=0} = 0 \label{eq:first_variation}
+\end{align}
 $$
 
 The functional becomes:
@@ -99,6 +101,22 @@ $$
   \frac{\partial L}{\partial q} - \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}} \right) = 0
 \end{align*}
 $$ 
+
+Also, we can define the action $S$ as the integral of the Lagrangian over time:
+
+$$
+\begin{align*}
+  S[q] &= \int_{t_1}^{t_2} L(t, q, \dot{q}) dt
+\end{align*}
+$$
+
+Then the <strong>Principle of Least Action</strong> states that the path taken by the system is the one that minimizes the action similar to Eq. \ref{eq:first_variation}, i.e., 
+
+$$
+\begin{align*}
+  \delta S[q] &= 0
+\end{align*}
+$$
 
 This equation may look weird at first, but we can interpret it by considering the Lagrangian is the difference between the kinetic energy $T = \frac{1}{2}m\dot{q}^2$ and potential energy $V$ of the system, i.e., $L = T - V$. Then, we have:
 
