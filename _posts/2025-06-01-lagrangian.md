@@ -6,7 +6,7 @@ categories: [Dynamics]
 tags: [learning]
 ---
 
-<!-- Add this to your HTML head or inside the markdown file -->
+
 <script>
   MathJax = {
     tex: {

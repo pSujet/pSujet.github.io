@@ -5,6 +5,13 @@ permalink: /blogs/
 order: 4
 icon: fas fa-pen
 ---
+
+{% comment %} {% for post in site.posts %}
+  <article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  </article>
+{% endfor %} {% endcomment %}
+
 <div class="post-list">
   {% for post in site.posts %}
     <article>
@@ -28,8 +35,6 @@ icon: fas fa-pen
         <br>
         {% endif %}
       </p>
-
-      {% comment %} <p>{{ post.excerpt | strip_html | truncate: 160 }}</p> {% endcomment %}
     </article>
     <hr>
   {% endfor %}
