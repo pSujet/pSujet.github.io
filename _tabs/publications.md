@@ -146,7 +146,8 @@ order: 2
 </div>
 
 # Awards
-- **SICE International Young Authors Award (SIYA)** at the <a href="https://sice-si.org/SII2025/sii2025.html?fbclid=IwZXh0bgNhZW0CMTAAAR2A5UyWiShf-Q4FmqKzPSa305mNbckFvt9ZQ3GBW_7wXMhfAKFarS1rJR4_aem_WZlaixgdf1_W_OLyKkM99Q" style="text-decoration: none; color: black;">2025 IEEE/SICE International Symposium on System Integration (SII 2025)</a>, München, Germany, 2025.
+
+- <a href="https://vistec.ac.th/awards-and-recognition-2024/article/sice-international-young-authors-award-siya-vistec-robotics-research-team-" style="text-decoration: none; color: black; font-weight: bold;">SICE International Young Authors Award (SIYA)</a> at the <a href="https://sice-si.org/SII2025/sii2025.html?fbclid=IwZXh0bgNhZW0CMTAAAR2A5UyWiShf-Q4FmqKzPSa305mNbckFvt9ZQ3GBW_7wXMhfAKFarS1rJR4_aem_WZlaixgdf1_W_OLyKkM99Q" style="text-decoration: none; color: black;">2025 IEEE/SICE International Symposium on System Integration (SII 2025)</a>, München, Germany, 2025.
 - <a href="https://www.kth.se/en/studies/master/admissions/scholarships/kth-one-year-scholarship-1.290744" style="text-decoration: none; color: black; font-weight: bold;">KTH One-Year Scholarship</a>, awarded to students who have achieved outstanding results in their first year of a two year master’s programme, KTH Royal Institute of Technology, Stockholm, Sweden, 2022.
 - **Best Presentation** at Digital Futures Summer Research Internship Programme, <a href="{{ site.baseurl }}/assets/publications/awards/digital_future_final_presentation_Sujet_Phodapol.pdf" style="text-decoration: none; color: black; font-style: italic;" target="_blank"> Air-Carriages for Microgravity Testbeds</a>, KTH Royal Institute of Technology, Stockholm, Sweden, 2022.
 
